@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+#ladrilloimg {
+    transition: all 0.5s;
+}
+
+#aaronimg {
+    visibility: hidden;
+}
+
+body {
+    background: url(/img/ladrillofondo2.jpeg);
+    background-size: cover;
+}
+
+span {
+    color: red;
+}
